@@ -1,7 +1,7 @@
 import java.awt.Color;
 import java.awt.Graphics;
 /**
- * This Class implements the state and behaviour of Oval infrastructure.
+ * This abstract Class implements the state and behaviour of Myshape infrastructure.
  * It inherits from MyShape class.
  */
 public abstract class MyBoundedShape extends MyShape
